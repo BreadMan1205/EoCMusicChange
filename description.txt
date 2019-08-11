@@ -1,0 +1,5 @@
+This mod changes the Eye of Cthulhu's music to Queen Bee's theme, like in the legacy console editions.
+
+Changelog:
+
+1.1 - Added icon
