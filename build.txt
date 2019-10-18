@@ -1,6 +1,6 @@
 displayName = Qeeen Bee music for EoC
-author = Immortal Phoenix
-version = 1.2
+author = Bread Man
+version = 1.2.1
 hideCode = false
 hideResources = false
 includeSource = true
