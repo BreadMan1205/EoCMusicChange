@@ -1,6 +1,6 @@
 displayName = Qeeen Bee music for EoC
-author = Bread Man
-version = 1.2.1
+author = Falcon
+version = 1.2.2
 hideCode = false
 hideResources = false
 includeSource = true
