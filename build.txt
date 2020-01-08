@@ -5,3 +5,4 @@ hideCode = false
 hideResources = false
 includeSource = true
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .vscode\*
+homepage = https://github.com/Falcon1205/EoCMusicChange
