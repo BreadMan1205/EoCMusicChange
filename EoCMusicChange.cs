@@ -18,6 +18,18 @@ namespace EoCMusicChange
 {
 	public class EoCMusicChange : Mod
 	{
+		public static EoCMusicChange Instance;
+
+		public override void Load()
+		{
+			Instance = this;
+		}
+
+		public override void Unload()
+		{
+			Instance = null;
+		}
+
 		public EoCMusicChange()
 		{
 		}

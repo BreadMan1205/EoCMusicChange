@@ -1,6 +1,6 @@
-displayName = Queen Bee music for EoC by Falcon
+displayName = Queen Bee music for EoC
 author = Falcon
-version = 1.2.2.2
+version = 1.2.2.3
 hideCode = false
 hideResources = false
 includeSource = true

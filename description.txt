@@ -2,6 +2,8 @@ This mod changes the Eye of Cthulhu's music to Queen Bee's theme, like in the le
 
 Changelog:
 
+1.2.2.3 - Added unload code
+
 1.2.2.2 - Fixed a stupid typo in the title
 
 1.2.2.1 - Tweaked icon and added homepage
